@@ -2,5 +2,5 @@
 
 
 
-\*\*Khac Trung\*\* \*Nguyen\*
+**Khac Trung** *Nguyen*
 
